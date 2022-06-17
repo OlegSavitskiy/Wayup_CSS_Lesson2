@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+}
+.homework-text{
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+.color-red{
+    color: red;
+}
+h2 {
+    background-color: green;
+    color: white;
+}
+.big {
+    padding: 45px;
+}
+li{
+    font-size: 25px;
+    border: 1px solid black;
+}
+img{
+    height: 50px;
+}
+.down {
+    margin-top: 100px;
+}
+.small {
+    padding: 5px;
+}
+ul{
+    margin-top: 30px
+}
+.forms{
+    margin-left: 100px;
+}
